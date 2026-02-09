@@ -5,3 +5,9 @@
 
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4907fcee-4b0f-45f6-a3a6-75be77be1885" />
+
+
+## References
+
+- [Gmail API – Official Documentation](https://developers.google.com/workspace/gmail/api/guides)
+- [Google Developer Workspace](https://developers.google.com/workspace)
